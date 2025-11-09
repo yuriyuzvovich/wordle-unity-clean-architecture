@@ -1,4 +1,5 @@
-<img width="405" height="825" alt="image" src="https://github.com/user-attachments/assets/eb4c858e-321c-4405-959e-004b4656b463" />
+<img width="405" height="825" alt="image" src="https://github.com/user-attachments/assets/eb4c858e-321c-4405-959e-004b4656b463" /> <img width="411" height="825" alt="image" src="https://github.com/user-attachments/assets/976b52d9-a219-43d1-a03a-1ea07dff8b69" />
+
 
 # Wordle Unity Architecture & Feature Guide
 
