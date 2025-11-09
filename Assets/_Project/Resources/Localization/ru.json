@@ -1,0 +1,63 @@
+{
+  "languageCode": "ru",
+  "languageName": "Русский",
+  "entries": [
+    {
+      "key": "keyboard.enter",
+      "value": "ENTER"
+    },
+    {
+      "key": "keyboard.backspace",
+      "value": "←"
+    },
+    {
+      "key": "modal.win.genius",
+      "value": "Гениально!"
+    },
+    {
+      "key": "modal.win.magnificent",
+      "value": "Великолепно!"
+    },
+    {
+      "key": "modal.win.impressive",
+      "value": "Впечатляюще!"
+    },
+    {
+      "key": "modal.win.splendid",
+      "value": "Блестяще!"
+    },
+    {
+      "key": "modal.win.great",
+      "value": "Отлично!"
+    },
+    {
+      "key": "modal.win.phew",
+      "value": "Уф!"
+    },
+    {
+      "key": "modal.win.default",
+      "value": "Победа!"
+    },
+    {
+      "key": "modal.win.message.singular",
+      "value": "Вы угадали слово <b>{word}</b> за {attempts} попытку!"
+    },
+    {
+      "key": "modal.win.message.plural",
+      "value": "Вы угадали слово <b>{word}</b> за {attempts} попыток!"
+    },
+    {
+      "key": "modal.lose.title",
+      "value": "Игра окончена"
+    },
+    {
+      "key": "modal.lose.message",
+      "value": "Слово было <b>{word}</b>\n\nУдачи в следующий раз!"
+    },
+    {
+      "key": "button.playagain",
+      "value": "Играть снова"
+    }
+  ]
+}
+

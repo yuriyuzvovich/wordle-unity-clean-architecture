@@ -1,0 +1,23 @@
+{
+    "name": "Wordle.Presentation.Runtime",
+    "rootNamespace": "Wordle.Presentation",
+    "references": [
+        "Wordle.Core.Runtime",
+        "Wordle.Application.Runtime",
+        "Wordle.Infrastructure.Common.Runtime",
+        "Wordle.Infrastructure.AssetManagement.Runtime",
+        "UniTask",
+        "Unity.TextMeshPro",
+        "Unity.Addressables",
+        "DOTween.Modules"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Wordle.Infrastructure.Persistence.Runtime",
+  "rootNamespace": "Wordle.Infrastructure.Persistence",
+  "references": [
+    "Wordle.Core.Runtime",
+    "Wordle.Application.Runtime",
+    "Wordle.Infrastructure.Common.Runtime",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

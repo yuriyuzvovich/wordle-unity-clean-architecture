@@ -1,0 +1,27 @@
+{
+    "name": "Wordle.Infrastructure.Common.Tests",
+    "rootNamespace": "Wordle.Infrastructure.Common.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Wordle.Core.Runtime",
+        "Wordle.Application.Runtime",
+        "Wordle.Infrastructure.Common.Runtime",
+        "UniTask"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

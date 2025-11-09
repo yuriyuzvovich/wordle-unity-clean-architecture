@@ -1,0 +1,17 @@
+{
+    "name": "Wordle.Infrastructure.RemoteServices.Runtime",
+    "rootNamespace": "Wordle.Infrastructure.RemoteServices",
+    "references": [
+        "Wordle.Application.Runtime",
+        "Wordle.Infrastructure.Common.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

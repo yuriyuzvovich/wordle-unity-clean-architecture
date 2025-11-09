@@ -1,0 +1,17 @@
+{
+  "name": "Wordle.Infrastructure.Configuration.Runtime",
+  "rootNamespace": "Wordle.Infrastructure.Configuration",
+  "references": [
+    "Wordle.Application.Runtime",
+    "UniTask"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,62 @@
+{
+  "languageCode": "de",
+  "languageName": "Deutsch",
+  "entries": [
+    {
+      "key": "keyboard.enter",
+      "value": "ENTER"
+    },
+    {
+      "key": "keyboard.backspace",
+      "value": "←"
+    },
+    {
+      "key": "modal.win.genius",
+      "value": "Genial!"
+    },
+    {
+      "key": "modal.win.magnificent",
+      "value": "Großartig!"
+    },
+    {
+      "key": "modal.win.impressive",
+      "value": "Beeindruckend!"
+    },
+    {
+      "key": "modal.win.splendid",
+      "value": "Hervorragend!"
+    },
+    {
+      "key": "modal.win.great",
+      "value": "Super!"
+    },
+    {
+      "key": "modal.win.phew",
+      "value": "Puh!"
+    },
+    {
+      "key": "modal.win.default",
+      "value": "Gewonnen!"
+    },
+    {
+      "key": "modal.win.message.singular",
+      "value": "Du hast das Wort <b>{word}</b> in {attempts} Versuch erraten!"
+    },
+    {
+      "key": "modal.win.message.plural",
+      "value": "Du hast das Wort <b>{word}</b> in {attempts} Versuchen erraten!"
+    },
+    {
+      "key": "modal.lose.title",
+      "value": "Spiel Vorbei"
+    },
+    {
+      "key": "modal.lose.message",
+      "value": "Das Wort war <b>{word}</b>\n\nViel Glück beim nächsten Mal!"
+    },
+    {
+      "key": "button.playagain",
+      "value": "Nochmal Spielen"
+    }
+  ]
+}

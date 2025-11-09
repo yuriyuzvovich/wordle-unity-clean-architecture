@@ -1,0 +1,62 @@
+{
+  "languageCode": "en",
+  "languageName": "English",
+  "entries": [
+    {
+      "key": "keyboard.enter",
+      "value": "ENTER"
+    },
+    {
+      "key": "keyboard.backspace",
+      "value": "←"
+    },
+    {
+      "key": "modal.win.genius",
+      "value": "Genius!"
+    },
+    {
+      "key": "modal.win.magnificent",
+      "value": "Magnificent!"
+    },
+    {
+      "key": "modal.win.impressive",
+      "value": "Impressive!"
+    },
+    {
+      "key": "modal.win.splendid",
+      "value": "Splendid!"
+    },
+    {
+      "key": "modal.win.great",
+      "value": "Great!"
+    },
+    {
+      "key": "modal.win.phew",
+      "value": "Phew!"
+    },
+    {
+      "key": "modal.win.default",
+      "value": "You Won!"
+    },
+    {
+      "key": "modal.win.message.singular",
+      "value": "You guessed the word <b>{word}</b> in {attempts} attempt!"
+    },
+    {
+      "key": "modal.win.message.plural",
+      "value": "You guessed the word <b>{word}</b> in {attempts} attempts!"
+    },
+    {
+      "key": "modal.lose.title",
+      "value": "Game Over"
+    },
+    {
+      "key": "modal.lose.message",
+      "value": "The word was <b>{word}</b>\n\nBetter luck next time!"
+    },
+    {
+      "key": "button.playagain",
+      "value": "Play Again"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Wordle.Infrastructure.AssetManagement.Runtime",
+    "rootNamespace": "Wordle.Infrastructure.AssetManagement",
+    "references": [
+        "Wordle.Core.Runtime",
+        "Wordle.Application.Runtime",
+        "Wordle.Infrastructure.Common.Runtime",
+        "UniTask",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "UniTask.Addressables"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

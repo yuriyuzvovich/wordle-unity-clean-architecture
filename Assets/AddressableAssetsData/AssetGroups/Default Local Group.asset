@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: 7b8200d4f724d1645b67d73d4b366ad9
+  m_SerializeEntries:
+  - m_GUID: 00f8ed20c83a5af4884ad979d7b10f80
+    m_Address: de/TargetWords
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 126bd0d388f19d44e9dfe9a6fc091d1e
+    m_Address: wordlecanvas
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1427e80fc35c508459d22b09c842582c
+    m_Address: en/TargetWords
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 205df13e6d5ba7d49af752f9b6fb0683
+    m_Address: losemodal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 271183c1337b98a4588eba88ed94755f
+    m_Address: ru/TargetWords
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b7b9341c1c7d934f9d15f93a0125e82
+    m_Address: winmodal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69c6cbfc4595d4f49a85c34ddb903322
+    m_Address: keyview
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f15a768c5a6afc4a9af5915aeba8e60
+    m_Address: ru/ValidGuessWords
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3315ca246412af4083401664d4c0f42
+    m_Address: lettertileview
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b806ca2fb08a55241b5df48ef2d1d216
+    m_Address: de/ValidGuessWords
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baae790f98806894ba6ca429e6034b47
+    m_Address: en/ValidGuessWords
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dbe458abc6b284e46a4eeb5dd949a3ef, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bd336a7cb43265a4e957ba20b6d25c82, type: 2}
+    - {fileID: 11400000, guid: 4ae7be1828da7ae4ea123be837e10754, type: 2}
